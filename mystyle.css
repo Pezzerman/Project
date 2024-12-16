@@ -18,9 +18,9 @@ h1 {
 #trinket-spawn-box {
   background-color: rgb(150,150,150);
   border:solid black 1px;
-  width: 600px;
-  height: 600px;
+  width: 800px;
+  height: 700px;
   position:relative;
-  left:5px;
-  top:5px;
+  left:10px;
+  top:10px;
 }
