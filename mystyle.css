@@ -19,7 +19,7 @@ h1 {
   background-color: rgb(150,150,150);
   border:solid black 1px;
   width: 800px;
-  height: 650px;
+  height: 625px;
   position:relative;
   left:10px;
   top:10px;
@@ -28,7 +28,7 @@ h1 {
 #trinket-info-box {
   background-color: rgb(220,220,220);
   border:solid black 1px;
-  width: 50px;
+  width: 800px;
   height: 50px;
   position:relative;
   left:200px;
