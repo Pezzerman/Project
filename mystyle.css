@@ -6,3 +6,9 @@ h1 {
   color: gray;
   margin-left: 20px;
 }
+
+#myDIV {
+  background-color: rgb(169,169,169);
+  border: solid black 1px;
+  block-size: 750px;
+}
