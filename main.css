@@ -44,7 +44,7 @@ h2 {
   top:20px;
 }
 
-#trinket-currency-box {
+#trinket-screen-currency-box {
   background-color: rgb(150,150,150);
   border:solid black 1px;
   width: 600px;
@@ -52,4 +52,14 @@ h2 {
   position:relative;
   left:735px;
   bottom:494px;
+}
+
+#tinkets-amount-box {
+  background-color: rgb(255, 204, 0);
+  border:solid black 1px;
+  width:580px;
+  height:50px;
+  position:relative;
+  left:10px;
+  top:10px;
 }
