@@ -63,3 +63,13 @@ h2 {
   left:10px;
   top:10px;
 }
+
+#tinkets-level-box {
+  background-color: rgb(51, 153, 255);
+  border:solid black 1px;
+  width:580px;
+  height:50px;
+  position:relative;
+  left:10px;
+  top:10px;
+}
