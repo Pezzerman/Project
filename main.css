@@ -45,9 +45,11 @@ h2 {
 }
 
 #trinket-currency-box {
-  background-color: rgb(205,205,205);
+  background-color: rgb(150,150,150);
   border:solid black 1px;
   width: 600px;
   height: 375px;
   position:relative;
+  left:735px;
+  bottom:494px;
 }
