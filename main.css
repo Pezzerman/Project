@@ -48,13 +48,13 @@ h2 {
   background-color: rgb(150,150,150);
   border:solid black 1px;
   width: 600px;
-  height: 375px;
+  height: 350px;
   position:relative;
   left:735px;
   bottom:494px;
 }
 
-#tinkets-amount-box {
+#trinkets-amount-box {
   background-color: rgb(255, 204, 0);
   border:solid black 1px;
   width:580px;
@@ -64,7 +64,7 @@ h2 {
   top:10px;
 }
 
-#tinkets-level-box {
+#trinkets-level-box {
   background-color: rgb(51, 153, 255);
   border:solid black 1px;
   width:580px;
@@ -72,4 +72,14 @@ h2 {
   position:relative;
   left:10px;
   top:20px;
+}
+
+#trinkets-upgrade-box {
+  background-color: rgb(150,150,150);
+  border:solid black 1px;
+  width: 600px;
+  height: 125px;
+  position:relative;
+  left:735px;
+  bottom:494px;
 }
