@@ -21,7 +21,8 @@ h2 {
 #trinket-screen-background {
   background-color: rgb(170,170,170);
   border: solid black 1px;
-  block-size: 550px;
+  width: 1350px;
+  height: 550px;
 }
 
 #trinket-spawn-box {
