@@ -79,7 +79,7 @@ h2 {
 }
 
 #test {
-    position:absolute;
+    position:relative;
     width:100px;
     height:70px;
     background-color:#d2fcd9;
