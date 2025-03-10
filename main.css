@@ -1,79 +1,10 @@
 /* Universal CSS */
 body {
-  background-color: rgb(190,190,190);
+  background-color: rgb(127,127,127);
 }
 
-h2 {
-  color: rgb(200, 90, 80);
-  margin-left: 20px;
-  font-family: 'Comic Sans MS', cursive;
-  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
-}
-
-/* Trinket screen CSS */
-#trinket-screen-background {
-  background-color: rgb(170,170,170);
-  border: solid black 1px;
-  width: 1350px;
-  height: 550px;
-}
-
-#trinket-spawn-box {
-  background-color: rgb(150,150,150);
-  border:solid black 1px;
-  width: 600px;
-  height: 450px;
-  position:relative;
-  left:10px;
-  top:10px;
-}
-
-#trinket-info-box {
-  background-color: rgb(205,205,205);
-  border:solid black 1px;
-  width: 600px;
-  height: 50px;
-  position:relative;
-  left:10px;
-  top:20px;
-}
-
-#trinket-screen-currency-box {
-  background-color: rgb(150,150,150);
-  border:solid black 1px;
-  width: 600px;
-  height: 350px;
-  position:relative;
-  left:735px;
-  bottom:494px;
-}
-
-#trinkets-amount-box {
-  background-color: rgb(255, 204, 0);
-  border:solid black 1px;
-  width:580px;
-  height:50px;
-  position:relative;
-  left:10px;
-  top:10px;
-}
-
-#trinkets-level-box {
-  background-color: rgb(51, 153, 255);
-  border:solid black 1px;
-  width:580px;
-  height:50px;
-  position:relative;
-  left:10px;
-  top:20px;
-}
-
-#trinkets-upgrade-box {
-  background-color: rgb(150,150,150);
-  border:solid black 1px;
-  width: 600px;
-  height: 125px;
-  position:relative;
-  left:735px;
-  bottom:459px;
+p {
+  font-size: 10.5px;
+  colour: black;
+  text-align: center;
 }
