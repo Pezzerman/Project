@@ -22,7 +22,7 @@ h2 {
   text-shadow: 2px 2px 5px black;
 }
 
-element.style {
+.test-box {
     top: 50px;
     left: -50px;
     width: 990px;
