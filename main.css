@@ -32,12 +32,3 @@ h2 {
 	background-color: #161616;
 	box-shadow: inset 0px 0px 10px 2px #000;
 }
-
-.welcome-title > div {
-	position: absolute;
-	top: 50%;
-	left: 0px;
-	width: 100%;
-	transform: translateY(-50%);
-	font-size: 24px;
-}
