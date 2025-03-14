@@ -32,22 +32,11 @@ h2 {
   background-color: rgb(231, 19, 19);
 }
 
-.container {
-  font-family: arial;
-  font-size: 24px;
-  margin: 25px;
-  width: 350px;
-  height: 200px;
-  outline: dashed 1px black;
-  /* Setup */
-  position: relative;
-}
-
-.child {
-  width: 50px;
-  height: 50px;
+.test-title {
+  width: 390px;
+  height: 30px;
   background-color: red;
-  /* Center vertically */
   position: absolute;
-  top: 50%;
+  margin:5px
+  font-size: 24px;
 }
