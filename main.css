@@ -35,9 +35,21 @@ h2 {
 .test-title {
   width: 390px;
   height: 30px;
-  background-color: red;
+  background-color: green;
   position: absolute;
   margin: 5px;
   font-size: 24px;
   align-content: center;
+  font-family: 'Comic Sans MS', 'Comic Sans', cursive;
+}
+
+.test-body {
+  width: 390px;
+  height: 80px;
+  background-color: blue;
+  position: absolute;
+  margin: 5px;
+  font-size: 14px;
+  align-content: center;
+  font-family: 'Comic Sans MS', 'Comic Sans', cursive;
 }
