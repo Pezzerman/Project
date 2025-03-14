@@ -23,12 +23,13 @@ h2 {
 }
 
 .test-box {
-  position: relative;
-  top: 95%;
+  position: fixed;
+  top: 80%;
   left: 50%;
   width: 400px;
   height: 125px;
   background-color: rgb(255, 0, 0, 0);
+  transform: translate(-50%, -50%);
 }
 
 .test-title {
