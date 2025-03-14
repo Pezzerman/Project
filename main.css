@@ -37,6 +37,7 @@ h2 {
   height: 30px;
   background-color: red;
   position: absolute;
-  margin:5px
+  margin: 5px;
   font-size: 24px;
+  align-content: center;
 }
