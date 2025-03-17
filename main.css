@@ -56,6 +56,11 @@ h2 {
   border: 2px rgb(255, 0, 0, 0);
 }
 
+#trinket-button:active {
+    transform: scale(0.95);
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
 /* Middle column */
 
 .welcome-text-container {
