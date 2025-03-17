@@ -41,6 +41,16 @@ h2 {
   transform: translate(-50%, -50%);
 }
 
+.image-container {
+  top: 25%;
+  left: 50%;
+  width: 50%;
+  height: 20%;
+  background-image: url('trinket.png');
+  background-size: cover;
+  background-position: center;
+}
+
 /* Middle column */
 
 .welcome-text-container {
