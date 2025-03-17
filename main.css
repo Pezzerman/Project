@@ -36,14 +36,11 @@ h2 {
   top: 25%;
   left: 50%;
   width: 50%;
-  height: 20%;
   background-color: rgb(0, 255, 0, 1);
   transform: translate(-50%, -50%);
 }
 
 .big-trinket {
-  width: 50%;
-  height: 20%;
   background-image: url('trinket.png');
   background-size: cover;
   background-position: center;
