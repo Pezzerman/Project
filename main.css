@@ -41,14 +41,19 @@ h2 {
   transform: translate(-50%, -50%);
 }
 
-.image-container {
-  top: 25%;
-  left: 50%;
+.big-trinket {
   width: 50%;
   height: 20%;
   background-image: url('trinket.png');
   background-size: cover;
   background-position: center;
+  overflow: hidden;
+}
+
+.big-trinket img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
 }
 
 /* Middle column */
