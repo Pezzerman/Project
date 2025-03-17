@@ -58,7 +58,6 @@ h2 {
 
 #trinket-button:active {
     transform: scale(0.95);
-    background-color: rgba(0, 0, 0, 0.2);
 }
 
 /* Middle column */
