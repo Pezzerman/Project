@@ -38,12 +38,10 @@ h2 {
   width: 50%;
   background-color: rgb(0, 255, 0, 1);
   transform: translate(-50%, -50%);
+  cursor: pointer;
 }
 
 .big-trinket {
-  background-image: url('trinket.png');
-  background-size: cover;
-  background-position: center;
   overflow: hidden;
 }
 
