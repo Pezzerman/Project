@@ -1,4 +1,4 @@
-function toggleImage() {
+/* function toggleImage() {
   let img = document.getElementById("image");
   let btn = document.querySelector("button");
 
@@ -10,3 +10,4 @@ function toggleImage() {
       btn.innerText = "Show Image";
   }
 }
+*/
