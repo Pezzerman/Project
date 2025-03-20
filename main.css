@@ -38,7 +38,9 @@ h2 {
   height: 10%;
   width: 100%;
   transform:translate(-50%, -50%);
-  background-color: rgb(50, 50, 50, 1);
+  background-color: rgb(50, 50, 50, 0.2);
+  border-style: solid;
+  border: 2px rgb(20, 20, 20, 1);
 }
 
 .big-trinket {
