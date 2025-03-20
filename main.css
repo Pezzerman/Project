@@ -39,7 +39,7 @@ h2 {
   width: 100%;
   transform:translate(-50%, -50%);
   background-color: rgb(50, 50, 50, 0.2);
-  border: 2px solid grey;
+  border: 2px solid rgb(30, 30, 30, 1);
   border-right-style: hidden;
   border-left-style: hidden;
 }
