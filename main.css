@@ -35,8 +35,10 @@ h2 {
   position: relative;
   top:10%;
   left:50%;
+  height: 10%;
+  width: 100%;
   transform:translate(-50%, -50%);
-  background-color: rgb(50, 50, 50, 1)
+  background-color: rgb(50, 50, 50, 1);
 }
 
 .big-trinket {
