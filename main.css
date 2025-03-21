@@ -42,6 +42,9 @@ h2 {
   border: 2px solid rgb(30, 30, 30, 1);
   border-right-style: hidden;
   border-left-style: hidden;
+  font-size: 11px;
+  font-family: 'Comic Sans MS', 'Comic Sans', cursive;
+  text-shadow:1px 0px 0px #000,-1px 0px 0px #000,0px 1px 0px #000,0px -1px 0px #000,0px 1px 4px #000;
 }
 
 .big-trinket {
