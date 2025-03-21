@@ -55,9 +55,9 @@ h2 {
 }
 
 .big-trinket img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 
 #trinket-button {
@@ -67,7 +67,7 @@ h2 {
 }
 
 #trinket-button:active {
-    transform: scale(0.95);
+  transform: scale(0.95);
 }
 
 /* Middle column */
