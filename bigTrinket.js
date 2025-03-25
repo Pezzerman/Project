@@ -1,5 +1,10 @@
-// This sets the trinket value to 0
+// This defines the trinket variable, setting it at 0 initally
 // let trinket = 0;
 // This sets the 
-document.getElementById('trinkets').innerText = 10;
-// const bigTrinket = document.getElementById('trinket-button');
+
+function test(t) {
+  return trinket + 1;
+}
+
+let testing = test(0)
+document.getElementById('trinkets').innerText = testing;
