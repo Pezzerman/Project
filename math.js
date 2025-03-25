@@ -7,3 +7,10 @@ function trinketCollection() {
   // Updates HTML element for total trinkets
   document.getElementById("trinkets").innerText = trinket;
 } 
+
+// This is just to get two things going at once will need to be changed later
+function xpCollection() {
+  const levelHTML = document.getElementById("level");
+  const level = parseInt(levelHTML.innerText, 10) + 1;
+  document.getElementById("level").innerText = level;
+} 
