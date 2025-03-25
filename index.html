@@ -14,11 +14,15 @@
       0 trinkets per second
     </div>
     <div class="big-trinket">
-      <button id="trinket-button" onclick="trinketCollection()">
+      <button id="trinket-button" onclick="trinketCollection(); xpCollection()">
         <img src="trinket.png" draggable="false"/>
       </button>
     </div>
-    <div class="level-counter-container"></div>
+    <div class="level-counter-container">
+      <div id="level">0</div>
+      levels
+      </div>
+    </div>
   </div>
   <div class="welcome-text-container">
     <div class ="welcome-text-title">Welcome to Money Incremental!</div>
