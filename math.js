@@ -1,3 +1,4 @@
+
 // Trinkets collected when clicking the big trinket
 function trinketCollection() {
   // Gets the current amount of trinkets (starts at zero)
@@ -7,3 +8,9 @@ function trinketCollection() {
   // Updates HTML element for total trinkets
   document.getElementById("trinkets").innerText = trinket;
 } 
+
+function generationSpeed() {
+  var number = Math.floor(Math.random() * 10);
+  setTimeout(repeat, 1000);
+  document.getElementById("testing").innerText = trinket;
+}
