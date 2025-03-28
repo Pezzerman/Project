@@ -10,7 +10,7 @@ function trinketCollection() {
 } 
 
 function generationSpeed() {
-  var number = Math.floor(Math.random() * 10);
+  let number = Math.floor(Math.random() * 10);
   setTimeout(repeat, 1000);
-  document.getElementById("testing").innerText = trinket;
+  document.getElementById("testing").innerText = number;
 }
