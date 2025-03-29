@@ -67,6 +67,7 @@ h2 {
   font-size: 0.75vw;
   font-family: 'Comic Sans MS', 'Comic Sans', cursive;
   text-shadow:1px 0px 0px #000,-1px 0px 0px #000,0px 1px 0px #000,0px -1px 0px #000,0px 1px 4px #000;
+  font-weight: bold;
 }
 
 #trinket-button {
