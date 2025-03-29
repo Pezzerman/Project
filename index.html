@@ -16,12 +16,15 @@
     <div class="big-trinket">
       <button id="trinket-button" onclick="trinketCollection()">
         <img src="trinket.png" draggable="false"/>
+         Collect <br>
+         <span id="uncollectedTrinkets" onload="generationSpeed()">0</span> / 10
+         (+0/s)
       </button>
     </div>
     <div class="level-counter-container">
       Level 0
       <br>
-      <div id="uncollectedTrinkets" onload="generationSpeed()">0</div> / 500 experience
+      0 / 500 experience
       </div>
     </div>
   </div>
