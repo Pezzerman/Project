@@ -63,6 +63,12 @@ h2 {
   object-fit: cover;
 }
 
+#big-trinket-text {
+  font-size: 0.5vw;
+  font-family: 'Comic Sans MS', 'Comic Sans', cursive;
+  text-shadow:1px 0px 0px #000,-1px 0px 0px #000,0px 1px 0px #000,0px -1px 0px #000,0px 1px 4px #000;
+}
+
 #trinket-button {
   background-color: rgb(0, 0, 225, 0);
   cursor: pointer;
