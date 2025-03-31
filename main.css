@@ -111,7 +111,7 @@ h2 {
   height: 20%;
   margin: 2%;
   background-color: rgb(255, 192, 0, 1);
-  padding: 1px; /* Needed to prevent margin collapse */
+  padding: 0.1px; /* Needed to prevent margin collapse */
 }
 
 .trinket-title-container {
