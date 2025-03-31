@@ -118,7 +118,7 @@ h2 {
   height: 20%;
   margin: 2%;
   background-color: gray;
-  font-size: 2vw;
+  font-size: 1.2vw;
   font-family: 'Comic Sans MS', 'Comic Sans', cursive;
   text-shadow:1px 0px 0px #000,-1px 0px 0px #000,0px 1px 0px #000,0px -1px 0px #000,0px 1px 4px #000;
 }
