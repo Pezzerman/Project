@@ -114,21 +114,12 @@ h2 {
   padding: 0.1px; /* Needed to prevent margin collapse */
 }
 
-.trinket-title-container {
-  width: 98%;
-  height: 20%;
-  margin: 1%;
-  background-color: gray;
-  font-size: 1.2vw;
-  font-family: 'Comic Sans MS', 'Comic Sans', cursive;
-  text-shadow:1px 0px 0px #000,-1px 0px 0px #000,0px 1px 0px #000,0px -1px 0px #000,0px 1px 4px #000;
-}
-
 .mg-upgrade-container {
   width: 96%;
   height: 20%;
   margin: 2%;
   background-color: rgb(233, 113, 50, 1);
+  padding: 0.1px; /* Needed to prevent margin collapse */
 }
 
 .gb-upgrade-container {
@@ -136,6 +127,17 @@ h2 {
   height: 20%;
   margin: 2%;
   background-color: rgb(142, 217, 115, 1);
+  padding: 0.1px; /* Needed to prevent margin collapse */
+}
+
+.upgrade-title-container { /* Used for all upgrades */
+  width: 98%;
+  height: 20%;
+  margin: 1%;
+  background-color: gray;
+  font-size: 1.2vw;
+  font-family: 'Comic Sans MS', 'Comic Sans', cursive;
+  text-shadow:1px 0px 0px #000,-1px 0px 0px #000,0px 1px 0px #000,0px -1px 0px #000,0px 1px 4px #000;
 }
 
 .welcome-text-container {
