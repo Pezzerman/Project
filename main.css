@@ -109,27 +109,27 @@ h2 {
 .trinket-upgrade-container {
   width: 90%;
   height: 20%;
-  margin: 5%;
+  margin: 2%;
   background-color: rgb(255, 192, 0, 1);
 }
 
 .mg-upgrade-container {
   width: 90%;
   height: 20%;
-  margin: 5%;
+  margin: 2%;
   background-color: rgb(255, 192, 0, 1);
 }
 
 .gb-upgrade-container {
   width: 90%;
   height: 20%;
-  margin: 5%;
+  margin: 2%;
   background-color: rgb(255, 192, 0, 1);
 }
 
 .welcome-text-container {
   position: relative;
-  top: 90%;
+  top: 5%;
   left: 50%;
   width: 400px;
   height: 125px;
