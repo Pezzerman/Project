@@ -98,6 +98,13 @@ h2 {
 
 /* Middle column */
 
+.middle-column {
+  width: 60%;
+  height: 100%;
+  background-color: rgb(255, 0, 0, 0.2);
+  position: fixed;
+}
+
 .welcome-text-container {
   position: fixed;
   top: 90%;
