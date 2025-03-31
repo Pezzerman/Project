@@ -113,6 +113,16 @@ h2 {
   background-color: rgb(255, 192, 0, 1);
 }
 
+.trinket-title-container {
+  width: 96%;
+  height: 20%;
+  margin: 2%;
+  background-color: gray;
+  font-size: 2vw;
+  font-family: 'Comic Sans MS', 'Comic Sans', cursive;
+  text-shadow:1px 0px 0px #000,-1px 0px 0px #000,0px 1px 0px #000,0px -1px 0px #000,0px 1px 4px #000;
+}
+
 .mg-upgrade-container {
   width: 96%;
   height: 20%;
