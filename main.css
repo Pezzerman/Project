@@ -112,14 +112,16 @@ h2 {
   margin: 2%;
   background-color: rgb(255, 192, 0, 1);
   padding: 0.1px; /* Needed to prevent margin collapse */
+  overflow: hidden;
 }
 
-.trinket-upgrade-1 {
+#trinket-upgrade-1 {
   width: 15%;
   height: 80%;
   margin: 2%;
   background-color: rgb(255, 0, 0, 1);
   padding: 0.1px; /* Needed to prevent margin collapse */
+  cursor: pointer;
 }
 
 .trinket-upgrade-1 img {
