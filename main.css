@@ -140,6 +140,13 @@ h2 {
   text-shadow:1px 0px 0px #000,-1px 0px 0px #000,0px 1px 0px #000,0px -1px 0px #000,0px 1px 4px #000;
 }
 
+.upgrade-inner-container {
+  width: 98%;
+  height: 70%;
+  margin: 1%;
+  background-color: gray;
+}
+
 .welcome-text-container {
   position: relative;
   top: 5%;
