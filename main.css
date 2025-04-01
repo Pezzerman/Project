@@ -116,11 +116,12 @@ h2 {
 }
 
 #trinket-upgrade-1 {
+  position: relative;
+  margin-top: 0.5%;
+  margin-right: 80%;
   width: 100px;
   height: 100px;
-  margin: 2%;
   background-color: rgb(255, 0, 0, 1);
-  padding: 0.1px; /* Needed to prevent margin collapse */
   cursor: pointer;
 }
 
