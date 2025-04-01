@@ -122,6 +122,12 @@ h2 {
   padding: 0.1px; /* Needed to prevent margin collapse */
 }
 
+.trinket-upgrade-1 img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
 .mg-upgrade-container {
   width: 96%;
   height: 20%;
