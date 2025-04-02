@@ -126,6 +126,13 @@ h2 {
   border: 2px rgb(0, 255, 0, 0);
 }
 
+#trinket-upgrade-1-text {
+  position: absolute;
+  width: 8%;
+  height: 2%
+  background-color: rgb(0, 0, 0, 1)
+}
+
 .trinket-upgrade-base {
   background-image: url("trinketUpgradeBase.png");
   background-size: 100%;
