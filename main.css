@@ -155,19 +155,25 @@ h2 {
 #exit-trinket-1 {
   width: 3%;
   height: 2%;
-  background-color: rgb(255, 0, 0, 1);
+  color: rgb(255, 0, 0, 1);
+  cursor: pointer;
+  font-weight: bold;
 }
 
 #buy-trinket-1 {
   width: 3%;
   height: 2%;
-  background-color: rgb(255, 0, 0, 1);
+  color: rgb(255, 0, 0, 1);
+  cursor: pointer;
+  font-weight: bold;
 }
 
 #max-trinket-1 {
   width: 3%;
   height: 2%;
-  background-color: rgb(255, 0, 0, 1);
+  color: rgb(255, 0, 0, 1);
+  cursor: pointer;
+  font-weight: bold;
 }
 
 .trinket-upgrade-base {
