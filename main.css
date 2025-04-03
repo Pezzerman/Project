@@ -142,6 +142,8 @@ h2 {
   text-align: center;
   background-color: gray;
   display:none; /* Hides it initially */
+  font-size: 1vw;
+  font-family: 'Comic Sans MS', 'Comic Sans', cursive;
 }
 
 .trinket-upgrade-base {
