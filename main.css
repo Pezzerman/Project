@@ -12,7 +12,6 @@ body {
 
 p {
   font-size: 0.75vw;
-  color: white;
   font-family: 'Comic Sans MS', 'Comic Sans', cursive;
   text-shadow:1px 0px 0px #000,-1px 0px 0px #000,0px 1px 0px #000,0px -1px 0px #000,0px 1px 4px #000;
   margin: 0px;
@@ -20,7 +19,6 @@ p {
 
 h2 {
   font-size: 1vw;
-  color: white;
   font-family: 'Comic Sans MS', 'Comic Sans', cursive;
   text-shadow:1px 0px 0px #000,-1px 0px 0px #000,0px 1px 0px #000,0px -1px 0px #000,0px 1px 4px #000;
   margin: 0px;
@@ -47,6 +45,9 @@ h2 {
   border-right-style: hidden;
   border-left-style: hidden;
   font-size: 1vw;
+  font-family: 'Comic Sans MS', 'Comic Sans', cursive;
+  text-shadow:1px 0px 0px #000,-1px 0px 0px #000,0px 1px 0px #000,0px -1px 0px #000,0px 1px 4px #000;
+  margin: 0px;
 }
 
 .big-trinket {
@@ -145,7 +146,6 @@ h2 {
   background-color: gray;
   display:none; /* Hides it initially */
   font-size: 0.75vw;
-  color: white;
   font-family: 'Comic Sans MS', 'Comic Sans', cursive;
   text-shadow:1px 0px 0px #000,-1px 0px 0px #000,0px 1px 0px #000,0px -1px 0px #000,0px 1px 4px #000;
   margin: 0px;
