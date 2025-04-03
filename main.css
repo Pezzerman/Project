@@ -142,7 +142,7 @@ h2 {
   text-align: center;
   background-color: gray;
   display:none; /* Hides it initially */
-  font-size: 1vw;
+  font-size: 0.75vw;
   font-family: 'Comic Sans MS', 'Comic Sans', cursive;
 }
 
