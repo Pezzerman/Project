@@ -146,6 +146,7 @@ h2 {
   text-align: center;
   background-color: rgb(255, 192, 0, 1);
   font-size: 0.75vw;
+  display: none;
   font-family: 'Comic Sans MS', 'Comic Sans', cursive;
   text-shadow:1px 0px 0px #000,-1px 0px 0px #000,0px 1px 0px #000,0px -1px 0px #000,0px 1px 4px #000;
   margin: 0px;
