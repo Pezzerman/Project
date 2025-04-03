@@ -112,7 +112,6 @@ h2 {
   margin: 2%;
   background-color: rgb(255, 192, 0, 1);
   padding: 0.1px; /* Needed to prevent margin collapse */
-  overflow: hidden;
 }
 
 #trinket-upgrade-1 {
@@ -134,6 +133,15 @@ h2 {
   margin-left: 3%;
   font-size: 0.8vw;
   font-family: 'Comic Sans MS', 'Comic Sans', cursive;
+}
+
+#trinket-upgrade-1-screen {
+  width: 98%%;
+  height: 100%;
+  padding: 0.1px; /* Needed to prevent margin collapse */
+  text-align: center;
+  background-color: lightblue;
+  display:none; /* Hides it initially */
 }
 
 .trinket-upgrade-base {
