@@ -11,13 +11,13 @@ body {
 }
 
 p {
-  font-size: 14px;
+  font-size: 0.75vw;
   color: white;
   text-shadow: 2px 2px 5px black;
 }
 
 h2 {
-  font-size: 20px;
+  font-size: 1vw;
   color: white;
   text-shadow: 2px 2px 5px black;
 }
