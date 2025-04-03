@@ -152,6 +152,24 @@ h2 {
   margin: 0px;
 }
 
+#exit-trinket-1 {
+  width: 3%;
+  height: 2%;
+  background-color: rgb(255, 0, 0, 1);
+}
+
+#buy-trinket-1 {
+  width: 3%;
+  height: 2%;
+  background-color: rgb(255, 0, 0, 1);
+}
+
+#max-trinket-1 {
+  width: 3%;
+  height: 2%;
+  background-color: rgb(255, 0, 0, 1);
+}
+
 .trinket-upgrade-base {
   background-image: url("trinketUpgradeBase.png");
   background-size: 100%;
