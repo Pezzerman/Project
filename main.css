@@ -205,6 +205,15 @@ h2 {
   bottom: 5%;
 }
 
+.green-text {
+  font-size: 0.75vw;
+  color: green;
+  font-weight: bold;
+  font-family: 'Comic Sans MS', 'Comic Sans', cursive;
+  text-shadow:1px 0px 0px #000,-1px 0px 0px #000,0px 1px 0px #000,0px -1px 0px #000,0px 1px 4px #000;
+  margin: 0px;
+}
+
 .welcome-text-container {
   position: relative;
   top: 5%;
