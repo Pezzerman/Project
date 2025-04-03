@@ -140,7 +140,7 @@ h2 {
   height: 100%;
   padding: 0.1px; /* Needed to prevent margin collapse */
   text-align: center;
-  background-color: lightblue;
+  background-color: gray;
   display:none; /* Hides it initially */
 }
 
